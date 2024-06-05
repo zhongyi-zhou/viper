@@ -1,0 +1,46 @@
+accelerate
+backoff
+bitsandbytes
+cityscapesscripts
+git+https://github.com/openai/CLIP.git
+openai-clip
+decord
+dill
+einops
+ftfy
+h5py
+inflect
+ipython
+ipykernel
+jupyter
+joblib
+kornia
+matplotlib
+nltk
+num2words
+numpy
+omegaconf
+# git+https://github.com/openai/openai-python.git
+opencv_python_headless
+pandas
+Pillow
+prettytable
+pycocotools
+python_dateutil
+PyYAML
+qd
+regex
+requests
+rich
+scipy
+setuptools
+tensorboardX
+tensorflow
+timm
+# torch==1.13.1
+# torchvision==0.14.1
+tqdm
+git+https://github.com/huggingface/transformers.git
+wandb
+word2number
+yacs
